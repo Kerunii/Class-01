@@ -1,0 +1,27 @@
+/*Remove browser style*/
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+header {
+    background-color: aquamarine;
+    padding-bottom: 20px;
+}
+nav {
+    background-color: red;
+    padding-bottom: 20px;
+}
+section {
+    background-color: yellow;
+    padding: 20px;
+}
+article {
+    background-color: orange;
+}
+aside {
+    background-color: papayawhip;
+}
+footer {
+    background-color: cyan;
+}
